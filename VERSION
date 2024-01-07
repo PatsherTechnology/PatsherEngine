@@ -1,0 +1,36 @@
+# Patsher Game Engine Versions
+
+## Version 1.0
+- Released: January 2018
+- Features:
+  - Basic game rendering
+  - Input handling
+  - Simple physics
+
+## Version 1.5
+- Released: June 2019
+- Features:
+  - Improved rendering pipeline
+  - Added sound support
+  - Enhanced physics engine
+
+## Version 2.0
+- Released: March 2020
+- Features:
+  - Advanced rendering techniques
+  - Multi-platform support (Windows, macOS, Linux)
+  - Networking capabilities
+
+## Version 2.5
+- Released: August 2021
+- Features:
+  - VR (Virtual Reality) support
+  - Improved performance optimizations
+  - Expanded asset management
+
+## Version 3.0
+- Expected Release: Q2 2023
+- Planned Features:
+  - Real-time ray tracing
+  - AI integration
+  - Enhanced editor tools
